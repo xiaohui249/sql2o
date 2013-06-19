@@ -1,4 +1,4 @@
-sql2o
+org.sql2o
 =====
 
-extends the origin sql2o project by adding connection pool
+extends the origin org.sql2o project by adding connection pool

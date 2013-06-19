@@ -25,6 +25,9 @@
         <module name="sql2o" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sql2o" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
